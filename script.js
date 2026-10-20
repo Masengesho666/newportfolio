@@ -50,13 +50,7 @@ const defaultBlogs = [
             "JavaScript has helped me understand how websites become interactive. I have worked with variables, functions, conditions, loops, arrays, objects and DOM manipulation."
     },
 
-    {
-        id: 2,
-        title: "Starting My React Journey",
-        category: "React.js",
-        description:
-            "React allows developers to create reusable UI components. My next step is to build more practical applications using React, APIs and modern frontend development techniques."
-    },
+     
 
     {
         id: 3,
